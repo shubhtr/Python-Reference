@@ -28,5 +28,34 @@ cubes.append(7**3)				# and the cube of 7
 
 print (cubes)
 
+letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g']
+print (letters)
+
+# replace some values
+letters[2:5] = ['C', 'D', 'E']
+print (letters)
+
+# now remove them
+letters[2:5] = []
+print (letters)
+
+# clear the list by replacing all the elements with an empty list
+letters[:] = []
+print (letters)
+
+# len() also applies to lists
+letters = ['a', 'b', 'c', 'd']
+print (len(letters))
+
+# nest lists
+a = ['a', 'b', 'c']
+n = [1, 2, 3]
+x = [a, n]
+print (x)
+print (x[0])
+print (x[0][1])
+
+
+
 
 
