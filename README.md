@@ -5,6 +5,6 @@ This repository contains a collection of sample code, recipes, snippets, etc for
 
 # Author
 Shubhrendu Tripathi
-[![Follow @shubhtr](https://img.shields.io/twitter/follow/shubhtr.svg?style=social&label=Follow%20@shubhtr)]
+![@shubhtr](https://img.shields.io/twitter/follow/shubhtr.svg?style=social&label=Follow%20@shubhtr)
 
 
