@@ -7,6 +7,6 @@ This repository contains a collection of sample code, recipes, snippets, etc for
 Shubhrendu Tripathi
 <br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/shubhtr.svg?style=social)](https://twitter.com/shubhtr)  
-[![GitHub followers](https://img.shields.io/github/followers/shubhtr.svg?style=social&label=Follow)](https://github.com/shubhtr/MyBadges)  
+[![GitHub followers](https://img.shields.io/github/followers/shubhtr.svg?style=social&label=Follow)](https://github.com/shubhtr)  
 
 
